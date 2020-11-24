@@ -1,4 +1,4 @@
-# 2_Regression
+# Regression
 Coursera Machine Learning Specialization [2/4]\
 Machine Learning: Regression\ 
 University of Washington\
